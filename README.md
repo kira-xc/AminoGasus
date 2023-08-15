@@ -3,18 +3,18 @@ Amino Pegasus or AminoGasus for detect users in others community in Amino websit
 
 ## install requirements
 
-```zsh
+```properties
 pip3 install -r requirements.txt
 ```
 
 ## update amino.fix
-```zsh
+```properties
 pip3 install -U amino.fix
 ```
 ## ***************************************
 
 # using the app
-```zsh
+```properties
 python3 aminogasus.py
 ```
 
