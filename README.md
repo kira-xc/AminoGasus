@@ -45,8 +45,7 @@ for split the "result_explore_ar_1694.txt" file to files with 300 size or lines
 python3 sub_tools/ndc2http.py
 ```
 
-and paste all ndc links 
-andwhen you finsh type :
+and paste all ndc links , and when you finsh type :
 ```
 @end
 ```
