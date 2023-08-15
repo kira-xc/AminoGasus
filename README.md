@@ -3,18 +3,18 @@ Amino Pegasus or AminoGasus for detect users in others community in Amino websit
 
 ## install requirements
 
-```
+```console
 pip3 install -r requirements.txt
 ```
 
 ## update amino.fix
-```
+```console
 pip3 install -U amino.fix
 ```
 ## ***************************************
 
 # using the app
-```
+```console
 python3 aminogasus.py
 ```
 
@@ -24,7 +24,7 @@ python3 aminogasus.py
 
 ## spliter of comIds
 
-```zsh
+```console
 python3 sub_tools/spliter.py -i comIds/result_explore_ar_1694.txt -s 300
 ```
 
@@ -32,7 +32,7 @@ for split the "result_explore_ar_1694.txt" file to files with 300 size or lines
 
 
 ## ndc to http links convertor
-```
+```console
 python3 sub_tools/ndc2http.py
 ```
 
