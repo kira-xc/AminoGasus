@@ -24,11 +24,11 @@ python3 aminogasus.py
 
 ## spliter of comIds
 
-```
+```zsh
 python3 sub_tools/spliter.py -i comIds/result_explore_ar_1694.txt -s 300
 ```
 
-for split the result_explore_ar_1694.txt file to files with 300 size or lines
+for split the "result_explore_ar_1694.txt" file to files with 300 size or lines
 
 
 ## ndc to http links convertor
