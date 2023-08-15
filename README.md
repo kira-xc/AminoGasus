@@ -11,8 +11,9 @@ pip3 install -r requirements.txt
 ```
 pip3 install -U amino.fix
 ```
+## ***************************************
 
-## using the app
+# using the app
 ```
 python3 aminogasus.py
 ```
