@@ -6,6 +6,9 @@ Amino Pegasus or AminoGasus for detect users in others community in Amino websit
 ```console
 git clone https://github.com/kira-xc/AminoGasus --depth 1
 ```
+```console
+cd AminoGasus
+```
 
 ## install requirements packages
 
