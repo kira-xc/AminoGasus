@@ -197,7 +197,7 @@ print("""
 """)
 
 for e in exists:
-    print(f"narviiapp://x{e}/user-profile/{userId}")
+    print(f"ndc://x{e}/user-profile/{userId}")
 print("""
 
 #####################################################
@@ -205,7 +205,7 @@ print("""
 """)
 
 for e in not_exits_now:
-    print(f"narviiapp://x{e}/user-profile/{userId}")
+    print(f"ndc://x{e}/user-profile/{userId}")
 
 
 #info["api:statuscode"] = 225 # not exists
